@@ -1,2 +1,2 @@
 # my_digital_clock
-C program using ATMega32 microcontroller implementing a digital clock that allows you to set time and date with keypad I/O
+C program using ATMega32 microcontroller implementing a digital clock that allows you to set time and date with keypad I/O (Project for UCI COMPSCI 145: Embedded Software)
